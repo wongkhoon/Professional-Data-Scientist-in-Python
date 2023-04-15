@@ -64,7 +64,10 @@
 
 •	***One coding challenge***
  <br><br>
-•	***Final case study (technical report + presentation)[^{\yen}]*** 
+•	***Final case study[^{\yen}]*** 
+  -  Two parts:
+     -  Technical report for data science manager
+     -  Presentation for non-technical audience
   -  Problem type: Binary classification
   -  Work environment: Datacamp workspace
   -  Libraries/modules used: pandas, numpy, seaborn, matplotlib, BeautifulSoup, nltk, PorterStemmer,  
