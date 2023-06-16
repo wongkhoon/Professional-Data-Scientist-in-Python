@@ -1,4 +1,6 @@
 ## An overview of the (former version) Datacamp Data Scientist Certification in Python
+
+•	***Personal certification page: https://www.datacamp.com/certificate/DS0017278428696***<br></br>
 •	***23 courses, 6 projects, 3 skill assessments***
 1.	Introduction to Python
 <br>Master the basics of data analysis in Python. Expand your skillset by learning scientific computing with Numpy.
